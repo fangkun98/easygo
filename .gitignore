@@ -1,0 +1,19 @@
+# Project exclude paths
+/easygo-ad-service/target/
+/easygo-address-service/target/
+/easygo-admin-service/target/
+/easygo-admin-web/target/
+/easygo-bran-service/target/
+/easygo-commons/target/
+/easygo-eureka/target/
+/easygo-goods-service/target/
+/easygo-itemcat-service/target/
+/easygo-order-service/target/
+/easygo-pay-service/target/
+/easygo-pojo/target/
+/easygo-protal-web/target/
+/easygo-search-service/target/
+/easygo-specification-service/target/
+/easygo-staticpage-service/target/
+/easygo-typetemplate-service/target/
+/easygo-user-service/target/
